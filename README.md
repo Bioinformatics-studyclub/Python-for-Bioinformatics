@@ -1,6 +1,4 @@
-# Python-for-Bioinformatics
-
-**Session 2: Reading and Writing Files**
+# Session 2: Reading and Writing Files
 
 
 In this study group we read through the appropriate chapter (Chapter 3) in the "Python for Biologist book" 
