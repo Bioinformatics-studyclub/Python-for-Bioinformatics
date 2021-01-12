@@ -1,8 +1,9 @@
 # Python-for-Bioinformatics
 
-**Basic to intermediate level Python using predominantly the "Python for Biologists" book**
+**Session 2: Reading and Writing Files**
 
-In this study group we read through the appropriate chapter in the "Python for Biologist book" 
+
+In this study group we read through the appropriate chapter (Chapter 3) in the "Python for Biologist book" 
 And then we congregate to discuss how we fared in the exercises at the end of the chapter. 
 We then go through some additional Theory and Exercises if time permits.
 
