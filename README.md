@@ -18,4 +18,4 @@ So save a copy of the **other_dna.txt** file on your personal Desktop. Also chan
   https://pythonforbiologists.com/s/python_for_biologists_exercises.zip
 
   3. We upload any video interactions to our YouTube channel Bioinformatics Study Club 
-  (https://www.youtube.com/channel/UC_ZRbI2d7dtskvXzohhO7Sw)
+  (https://studio.youtube.com/channel/UC_ZRbI2d7dtskvXzohhO7Sw/playlists)
