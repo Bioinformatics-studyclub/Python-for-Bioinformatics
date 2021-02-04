@@ -8,6 +8,9 @@ Thereafter we go through some additional Theory and Exercises if time permits.
 
 **Launch the Interactive Jupyter notebook** ***HERE ->:*** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_2_Reading-and-Writing-Files/main?filepath=Reading_and_Writing_Files.ipynb) (this takes a while to load in your browser, so please be patient)
 
+In order for the interactive notebook above to run all the blocks in Jupyter, you need to make sure that the files that we are using are stored in the appropriate directories.
+So save a copy of the **other_dna.txt** on your Desktop and change the file path to your OWN file path. E.g. **/home/Cathy_Jones/Desktop**
+
   1. Link to the book from which we do most of our exercises:
   https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf
 
